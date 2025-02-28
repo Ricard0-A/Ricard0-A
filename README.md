@@ -9,7 +9,7 @@
 
 - 🤝 Busco ayuda en **pulir mi inglés a nivel fluido**
 
-- 📫 Contactame en **ricardoarias4@hotmail.com**
+- 📫 Contáctame en **ricardoarias4@hotmail.com**
 
 - ⚡ Dato curioso **Me encanta escuchar la fonética inglesa, buena música y cantar.**
 
