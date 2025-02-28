@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Ricardo</h1>
-<h3 align="center">Desarrollador Web Full-Stack, con una sólida base técnica en Python, HTML, CSS, React.js y APIs RESTful. Apasionado por crear soluciones web intuitivas y de alto rendimiento.</h3>
+<h3 align="center">Desarrollador web Full-Stack, apasionado por la creación de soluciones web intuitivas y de alto rendimiento.</h3>
 
 - 🔭 Actualmente estoy trabajando en **mejorar y afinar mis habilidades como desarrollador de Back-End y Front-End**
 
@@ -7,9 +7,9 @@
 
 - 👯 Estoy buscando colaborar en **proyectos Front-End y Back-End**
 
-- 🤝 Busco ayuda en **pulir mi inglés a nivel fluido**
+- 🤝 Busco ayuda en **pulir mi inglés a un nivel fluido**
 
-- 📫 Contáctame en **ricardoarias4@hotmail.com**
+- 📫 Contactame en **ricardoarias4@hotmail.com**
 
 - ⚡ Dato curioso **Me encanta escuchar la fonética inglesa, buena música y cantar.**
 
