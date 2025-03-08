@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Mi nombre es Ricardo</h1>
 <h3 align="center">Desarrollador web Full-Stack, apasionado por la creación de soluciones web intuitivas y de alto rendimiento.</h3>
 
-- 🔭 Actualmente estoy trabajando en **mejorar y afinar mis habilidades como desarrollador de Back-End y Front-End**
+- 🔭 Actualmente estoy trabajando en **mejorar y afinar mis habilidades como desarrollador de Back-End y Front-End.**
 
 - 🌱 Actualmente estoy aprendiendo **cómo mejorar mis habilidades de programación.**
 
-- 👯 Estoy buscando colaborar en **proyectos Front-End**
+- 👯 Estoy buscando colaborar en **proyectos Front-End.**
 
-- 🤝 Busco ayuda en **pulir mi inglés a un nivel fluido**
+- 🤝 Busco ayuda en **pulir mi inglés a un nivel fluido.**
 
 - 📫 Contactame en **ricardo5arias5@gmail.com**
 
