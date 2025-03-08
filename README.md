@@ -5,11 +5,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **cómo mejorar mis habilidades de programación.**
 
-- 👯 Estoy buscando colaborar en **proyectos Front-End y Back-End**
+- 👯 Estoy buscando colaborar en **proyectos Front-End**
 
 - 🤝 Busco ayuda en **pulir mi inglés a un nivel fluido**
 
-- 📫 Contactame en **ricardoarias4@hotmail.com**
+- 📫 Contactame en **ricardo5arias5@gmail.com**
 
 - ⚡ Dato curioso **Me encanta escuchar la fonética inglesa, buena música y cantar.**
 
